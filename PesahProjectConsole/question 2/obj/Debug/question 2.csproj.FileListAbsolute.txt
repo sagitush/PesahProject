@@ -1,0 +1,7 @@
+C:\Users\sagit\Source\Repos\PesahProjectConsole\question 2\bin\Debug\question 2.exe.config
+C:\Users\sagit\Source\Repos\PesahProjectConsole\question 2\bin\Debug\question 2.exe
+C:\Users\sagit\Source\Repos\PesahProjectConsole\question 2\bin\Debug\question 2.pdb
+C:\Users\sagit\Source\Repos\PesahProjectConsole\question 2\obj\Debug\question 2.csprojAssemblyReference.cache
+C:\Users\sagit\Source\Repos\PesahProjectConsole\question 2\obj\Debug\question 2.csproj.CoreCompileInputs.cache
+C:\Users\sagit\Source\Repos\PesahProjectConsole\question 2\obj\Debug\question 2.exe
+C:\Users\sagit\Source\Repos\PesahProjectConsole\question 2\obj\Debug\question 2.pdb
